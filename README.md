@@ -1,4 +1,4 @@
-# Olá, eu sou João Machado 👋
+# Olá, eu sou João Vítor de Souza Machado 👋
 
 Atuo com **Dados e Processos**, utilizando tecnologia para transformar dados em informações úteis para análise, melhoria de processos e tomada de decisão.
 
